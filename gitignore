@@ -228,5 +228,11 @@ container/docker/files/setup.py
 container/docker/files/conductor-requirements.*
 
 # terraform cred
-# *.tfvars
-# terraform.tfvars
+*.tfvars
+terraform.tfvars
+
+# # my notes
+local.*
+local.*/
+.local*
+
