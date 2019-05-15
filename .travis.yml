@@ -1,0 +1,11 @@
+language: python
+
+sudo: false
+
+install:
+    - pip install doc8
+    - npm install -g write-good
+
+script:
+    - doc8 README.md
+    - write-good README.md --so --thereIs --cliches
