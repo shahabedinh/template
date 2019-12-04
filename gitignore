@@ -1,4 +1,5 @@
 # my template .gitignore
+
 ### OSX template
 .DS_Store
 .AppleDouble
@@ -24,16 +25,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-### Emacs template
-# -*- mode: gitignore; -*-
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
 
 # Org-mode
 .org-id-locations
@@ -57,13 +48,14 @@ tramp
 
 # cask packages
 .cask/
+
 ### Vim template
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
 Session.vim
 .netrwhist
-*~
+
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
@@ -170,7 +162,6 @@ htmlcov/
 .tox/
 .coverage
 .coverage.*
-.cache
 nosetests.xml
 coverage.xml
 *,cover
@@ -185,8 +176,8 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-# PyBuilder
-target/
+
+
 ### SublimeText template
 # cache files for sublime text
 *.tmlanguage.cache
@@ -237,8 +228,7 @@ local.*/
 .local*
 
 
-# GCP
-# # Any build artifacts
+# GCP -- Any build artifacts
 build/out/app
 service_account.json
 secrets
