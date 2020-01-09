@@ -37,4 +37,5 @@ You pick 30/45 minutes from a dropdown.
 > Specific needs or special requests — accessibility, audio (will you need to play pre-recorded sound?), or restrictions on when your talk can be scheduled.
 
 - See here for a sample: https://us.pycon.org/2014/speaking/proposal_advice/samples/SpacePug/
-- Source: https://gist.githubusercontent.com/jeffesp/b839e120a453398fa2e312c46ebfd122/raw/1b969de7aa42e62c3a8b070887187d8540a72a50/pycon.md
+
+- [Source:](https://gist.githubusercontent.com/jeffesp/b839e120a453398fa2e312c46ebfd122/raw/1b969de7aa42e62c3a8b070887187d8540a72a50/pycon.md)
